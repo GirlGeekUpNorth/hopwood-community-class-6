@@ -1,1 +1,1 @@
-# hopwood-community-reception
+# hopwood-community-class-6
