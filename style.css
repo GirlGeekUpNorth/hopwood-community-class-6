@@ -4,7 +4,7 @@ img {
 
 body {
   background-color: #90EE90;
-  font: calibri;
+  font-family: Tahoma, Verdana, sans-serif;
   padding-left:10%;
   padding-right:10%;
 } 
